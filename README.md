@@ -168,7 +168,7 @@ The complete technical implementation, including source code, tests, and deploym
 - Technical evaluation environment can be provided for qualified prospects
 
 **Technical Documentation:**
-- See [https://github.com/reidlai-oss/taassistant](https://github.com/reidlai-oss/taassistant) for comprehensive technical reference
+- See [https://github.com/reidlai/taassistant](https://github.com/reidlai/taassistant) for comprehensive technical reference
 - Includes architecture details, security implementation, development practices, and more
 
 **Next Steps:**
