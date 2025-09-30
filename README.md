@@ -67,6 +67,10 @@ This repository serves as a **technical showcase** for:
 3. **Technical Due Diligence**: Showcasing security framework, testing strategy, and maintainability
 4. **Integration Planning**: Illustrating API design and protocol abstraction for future integrations
 
+### Example Analysis
+
+See our [sample analysis for GOOG (Google/Alphabet)](Example-GOOG-20250929.pdf) demonstrating the platform's multi-agent AI capabilities, including technical analysis, fundamental evaluation, and investment recommendations.
+
 ## Architecture Overview
 
 ### Core Components
